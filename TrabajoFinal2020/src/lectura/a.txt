@@ -1,0 +1,10 @@
+AEP-Buenos Aires-00000000
+BHI-Bahia Blanca-11111111
+EZE-Buenos Aires-22222222
+BRC-San Carlos de Bariloche-33333333
+COR-Cordoba-44444444
+NQN-Neuquen-55555555
+ARI-Arica-66666666
+IBZ-Ibiza-77777777
+BIO-Bilbao-88888888
+MAR-Maracaibo-99999999

@@ -1,0 +1,199 @@
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerAvion
+INFO: COMIENZA CARGA DE DATOS DE AVIONES
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerAvion
+INFO: Se ha INTRODUCIDO el Aereopuerto con nombre Aereonautico: AEP
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerAvion
+INFO: Se ha INTRODUCIDO el Aereopuerto con nombre Aereonautico: BHI
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerAvion
+INFO: Se ha INTRODUCIDO el Aereopuerto con nombre Aereonautico: EZE
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerAvion
+INFO: Se ha INTRODUCIDO el Aereopuerto con nombre Aereonautico: BRC
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerAvion
+INFO: Se ha INTRODUCIDO el Aereopuerto con nombre Aereonautico: COR
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerAvion
+INFO: Se ha INTRODUCIDO el Aereopuerto con nombre Aereonautico: NQN
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerAvion
+INFO: Se ha INTRODUCIDO el Aereopuerto con nombre Aereonautico: ARI
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerAvion
+INFO: Se ha INTRODUCIDO el Aereopuerto con nombre Aereonautico: IBZ
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerAvion
+INFO: Se ha INTRODUCIDO el Aereopuerto con nombre Aereonautico: BIO
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerAvion
+INFO: Se ha INTRODUCIDO el Aereopuerto con nombre Aereonautico: MAR
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerCliente
+INFO: 
+ COMIENZA CARGA DE DATOS DE CLIENTE
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerCliente
+INFO: El cliente con numero de DNI: 43123450 con tipo de DNI: DNI ha sido INGRESADO CORRECTAMENTE
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerCliente
+INFO: El cliente con numero de DNI: 43123451 con tipo de DNI: DNI ha sido INGRESADO CORRECTAMENTE
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerCliente
+INFO: El cliente con numero de DNI: 43123452 con tipo de DNI: DNI ha sido INGRESADO CORRECTAMENTE
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerCliente
+INFO: El cliente con numero de DNI: 43123453 con tipo de DNI: DNI ha sido INGRESADO CORRECTAMENTE
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerCliente
+INFO: El cliente con numero de DNI: 43123454 con tipo de DNI: DNI ha sido INGRESADO CORRECTAMENTE
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerCliente
+INFO: El cliente con numero de DNI: 43123455 con tipo de DNI: DNI ha sido INGRESADO CORRECTAMENTE
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerCliente
+INFO: El cliente con numero de DNI: 43123456 con tipo de DNI: DNI ha sido INGRESADO CORRECTAMENTE
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerCliente
+INFO: El cliente con numero de DNI: 43123457 con tipo de DNI: DNI ha sido INGRESADO CORRECTAMENTE
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerCliente
+INFO: El cliente con numero de DNI: 43123458 con tipo de DNI: DNI ha sido INGRESADO CORRECTAMENTE
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerCliente
+INFO: El cliente con numero de DNI: 43123459 con tipo de DNI: DNI ha sido INGRESADO CORRECTAMENTE
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerVuelo
+INFO: 
+ COMIENZA CARGA DE DATOS DE VUELOS
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerVuelo
+INFO: El Vuelo: AA1998 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerVuelo
+INFO: El Vuelo: AA1999 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerVuelo
+INFO: El Vuelo: AA2000 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerVuelo
+INFO: El Vuelo: AA2001 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerVuelo
+INFO: El Vuelo: AA2002 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerVuelo
+INFO: El Vuelo: AA2003 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerVuelo
+INFO: El Vuelo: AL1994 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerVuelo
+INFO: El Vuelo: AL3000 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerVuelo
+INFO: El Vuelo: AL2099 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerVuelo
+INFO: El Vuelo: AL1500 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerVuelo
+INFO: El Vuelo: ES1996 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerVuelo
+INFO: El Vuelo: ES1997 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerVuelo
+INFO: El Vuelo: VN3001 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerVuelo
+INFO: El Vuelo: VN1995 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerViaje
+INFO: 
+ COMIENZA CARGA DE DATOS DE UN VIAJE
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerViaje
+INFO: El Vuelo: AA2000 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerViaje
+INFO: El Vuelo: AA2000 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerViaje
+INFO: El Vuelo: AA2000 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerViaje
+INFO: El Vuelo: AA2001 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerViaje
+INFO: El Vuelo: AA2003 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerViaje
+INFO: El Vuelo: AA2002 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerViaje
+INFO: El Vuelo: AA2002 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerViaje
+INFO: El Vuelo: AA1999 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerViaje
+INFO: El Vuelo: AA1999 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerViaje
+INFO: El Vuelo: AA1998 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerViaje
+INFO: El Vuelo: AL3000 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerViaje
+INFO: El Vuelo: AL1994 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerViaje
+INFO: El Vuelo: ES1997 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerViaje
+INFO: El Vuelo: ES1997 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerViaje
+INFO: El Vuelo: ES1996 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerViaje
+INFO: El Vuelo: VN3001 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerViaje
+INFO: El Vuelo: VN1995 ha sido INGRESADO CORRECTAMENTE 
+
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: 
+ COMIENZA CARGA DE DATOS DE PASAJE
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: El cliente con numero de DNI: 43123450 con tipo de DNI: DNI ha COMPRADO UN PASAJE PARA EL VUELO: AA2000 con FECHA: 21062020
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: El cliente con numero de DNI: 43123451 con tipo de DNI: DNI ha COMPRADO UN PASAJE PARA EL VUELO: AA2000 con FECHA: 21062020
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: El cliente con numero de DNI: 43123452 con tipo de DNI: DNI ha COMPRADO UN PASAJE PARA EL VUELO: AA2000 con FECHA: 21062020
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: El cliente con numero de DNI: 43123454 con tipo de DNI: DNI ha COMPRADO UN PASAJE PARA EL VUELO: AA2000 con FECHA: 09062020
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: El cliente con numero de DNI: 43123455 con tipo de DNI: DNI ha COMPRADO UN PASAJE PARA EL VUELO: AA2000 con FECHA: 09062020
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: El cliente con numero de DNI: 43123456 con tipo de DNI: DNI ha COMPRADO UN PASAJE PARA EL VUELO: AA2000 con FECHA: 17062020
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: El cliente con numero de DNI: 43123457 con tipo de DNI: DNI ha COMPRADO UN PASAJE PARA EL VUELO: AA1999 con FECHA: 19082020
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: El cliente con numero de DNI: 43123458 con tipo de DNI: DNI ha COMPRADO UN PASAJE PARA EL VUELO: AA1999 con FECHA: 19082020
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: El cliente con numero de DNI: 43123459 con tipo de DNI: DNI ha COMPRADO UN PASAJE PARA EL VUELO: AA1999 con FECHA: 19082020
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: El cliente con numero de DNI: 43123450 con tipo de DNI: DNI ha COMPRADO UN PASAJE PARA EL VUELO: VN1995 con FECHA: 15112020
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: El cliente con numero de DNI: 43123451 con tipo de DNI: DNI ha COMPRADO UN PASAJE PARA EL VUELO: VN1995 con FECHA: 15112020
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: El cliente con numero de DNI: 43123452 con tipo de DNI: DNI ha COMPRADO UN PASAJE PARA EL VUELO: VN1995 con FECHA: 15112020
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: El cliente con numero de DNI: 43123453 con tipo de DNI: DNI ha COMPRADO UN PASAJE PARA EL VUELO: VN1995 con FECHA: 15112020
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: El cliente con numero de DNI: 43123454 con tipo de DNI: DNI ha COMPRADO UN PASAJE PARA EL VUELO: AL3000 con FECHA: 08022020
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: El cliente con numero de DNI: 43123455 con tipo de DNI: DNI ha COMPRADO UN PASAJE PARA EL VUELO: AL3000 con FECHA: 08022020
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: El cliente con numero de DNI: 43123456 con tipo de DNI: DNI ha COMPRADO UN PASAJE PARA EL VUELO: AL3000 con FECHA: 08022020
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: El cliente con numero de DNI: 43123457 con tipo de DNI: DNI ha COMPRADO UN PASAJE PARA EL VUELO: AL1994 con FECHA: 19082020
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: El cliente con numero de DNI: 43123458 con tipo de DNI: DNI ha COMPRADO UN PASAJE PARA EL VUELO: AL1994 con FECHA: 19082020
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: El cliente con numero de DNI: 43123459 con tipo de DNI: DNI ha COMPRADO UN PASAJE PARA EL VUELO: AL1994 con FECHA: 19082020
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: El cliente con numero de DNI: 43123459 con tipo de DNI: DNI ha COMPRADO UN PASAJE PARA EL VUELO: ES1997 con FECHA: 20092020
+oct. 19, 2020 2:24:40 P. M. tpFinal.FileScanner leerPasaje
+INFO: El cliente con numero de DNI: 43123459 con tipo de DNI: DNI ha COMPRADO UN PASAJE PARA EL VUELO: VN1995 con FECHA: 15112020
